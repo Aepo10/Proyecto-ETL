@@ -1,6 +1,7 @@
 # Proyecto-ETL
 
 📖 **Descripción**
+
 Tenemos una empresa hotelera en Madrid y nos ha dado un .parque con sus datos. Analizaremos sus datos y, mediante scrapping, sacaremos datos de la competencia y de eventos que podemos ofrecer a nuestros clientes para mejorar su experiencia con nosotros.
 
 🗂️ **Estructura del Proyecto**
@@ -32,6 +33,7 @@ Nuestros hoteles han tenido una valoración media inferior en caso un punto de m
 Enviar mails a los clientes que no han terminado sus reservas (son las reservas de nuestros hoteles que no tenían ni precio ni fecha de reserva), obtener información sobre la asistencia a eventos de nuestros clientes y analizar el poder adquisitivo de nuestros clientes y los de la competencia.
 
 **🤝 Contribuciones**
+
 Las contribuciones son bienvenidas. Cualquier cosa abre un pull request o una issue!!!
 
 **✒️ Autores**
