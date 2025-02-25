@@ -26,12 +26,12 @@ selenium
 time
 webdriver-manager
 
-📊** Resultados y Conclusiones**
+📊**Resultados y Conclusiones**
 
 Nuestros hoteles han tenido una valoración media inferior en caso un punto de media respecto a los hoteles de la competencia. La empresa tiene reservas que no se han finalizado. Para mejorar la valoración, la empresa dará información de los eventos a sus clientes.
 
-🔄 **Próximos Pasos
-**
+🔄 **Próximos Pasos**
+
 Enviar mails a los clientes que no han terminado sus reservas (son las reservas de nuestros hoteles que no tenían ni precio ni fecha de reserva), obtener información sobre la asistencia a eventos de nuestros clientes y analizar el poder adquisitivo de nuestros clientes y los de la competencia.
 
 **🤝 Contribuciones**
