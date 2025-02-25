@@ -1,0 +1,30 @@
+id_hotel,nombre_hotel,competencia,estrellas,id_ciudad
+H1,ibis Styles Madrid Prado,True,4.7,1
+H10,ibis budget Madrid Alcala de Henares La Dehesa,True,4.3,1
+H2,ibis Madrid Centro las Ventas,True,4.5,1
+H200,Gran Hotel Madrid,False,3.07,1
+H201,Hotel Brisas del Mar,False,3.09,1
+H202,Hotel Camino del Sol,False,3.07,1
+H203,Hotel Costa Azul,False,3.12,1
+H204,Hotel Encanto Real,False,3.03,1
+H205,Hotel Jardines del Rey,False,2.94,1
+H206,Hotel Las Estrellas,False,2.91,1
+H207,Hotel Los Almendros,False,3.01,1
+H208,Hotel Luz de Madrid,False,3.05,1
+H209,Hotel Maravilla Real,False,2.98,1
+H210,Hotel Mirador Real,False,2.98,1
+H211,Hotel Monte Verde,False,3.1,1
+H212,Hotel Palacio Imperial,False,3.01,1
+H213,Hotel Puerta del Cielo,False,3.03,1
+H214,Hotel Rincón Sereno,False,3.0,1
+H215,Hotel Sol y Luna,False,3.01,1
+H216,Hotel Torre Dorada,False,2.92,1
+H217,Hotel Vista Alegre,False,2.94,1
+H218,Palacio del Sol,False,2.99,1
+H3,ibis budget Madrid Vallecas,True,4.3,1
+H4,ibis Madrid Aeropuerto Barajas,True,4.4,1
+H5,ibis Madrid Alcorcon Tresaguas,True,4.4,1
+H6,ibis budget Madrid Aeropuerto,True,4.0,1
+H7,ibis Madrid Alcobendas,True,4.4,1
+H8,ibis budget Madrid Alcorcon Mostoles,True,4.5,1
+H9,ibis Madrid Alcala de Henares La Garena,True,4.5,1
