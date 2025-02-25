@@ -1,5 +1,4 @@
 # Proyecto-ETL
-Proyecto_ETL_Hoteles
 
 📖 Descripción
 Tenemos una empresa hotelera en Madrid y nos ha dado un .parque con sus datos. Analizaremos sus datos y, mediante scrapping, sacaremos datos de la competencia y de eventos que podemos ofrecer a nuestros clientes para mejorar su experiencia con nosotros.
