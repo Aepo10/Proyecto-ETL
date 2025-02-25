@@ -7,8 +7,9 @@ Tenemos una empresa hotelera en Madrid y nos ha dado un .parque con sus datos. A
 🗂️ **Estructura del Proyecto**
 
 ├── data/                # Datos crudos y procesados
+
 ├── notebooks/           # Notebooks de Jupyter con el análisis
-├── src/                 # Scripts de procesamiento y modelado
+
 ├── README.md            # Descripción del proyecto
 
 🛠️ **Instalación y Requisitos**
